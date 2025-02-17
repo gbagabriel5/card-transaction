@@ -33,6 +33,7 @@ Para executar o projeto, utilize o seguinte comando:
 
 ## Documentação SWAGGER
 Para acessar a documentação da api após inicializar o projeto, acesse [Card Transaction API](http://localhost:8080/swagger-ui/index.html).
+![image](https://github.com/user-attachments/assets/a68b982a-c0e6-4826-92d6-5b234a218f8c)
 
 ## Dependências
 ### As principais dependências utilizadas no projeto são:
